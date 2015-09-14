@@ -1,0 +1,1 @@
+This repository forms a html page which displays recent posts from Instagram and Twitter of a chosen hashtag. The user must set up a database with columns named link, rank and time in order to function.
